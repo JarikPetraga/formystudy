@@ -11,6 +11,10 @@ namespace TestProject
         static void Main(string[] args)
         {
             Console.WriteLine("helloWorld");
+            Console.WriteLine("made by Yaromyr and Dima");
+
+            Console.ReadLine();
+
         }
     }
 }
